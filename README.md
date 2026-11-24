@@ -1,3 +1,7 @@
+[![The Most Honest Outage Line](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![Rank](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/Bozet404/u-mgwals-the-most-honest-outage-line-baaf9c81/rank.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+[![Reward](https://make.fun/badge/u-mgwals-the-most-honest-outage-line-baaf9c81/Bozet404/u-mgwals-the-most-honest-outage-line-baaf9c81/reward.svg)](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)
+
 # The Most Honest Outage Line
 
 One status page line, at most 160 characters: the message an AI agent
@@ -27,6 +31,6 @@ Requires Python 3 only, no dependencies.
 
 ## Competition
 
-make.fun bounty "The Most Honest Outage Line"
+make.fun bounty "[The Most Honest Outage Line](https://make.fun/bounty/u-mgwals-the-most-honest-outage-line-baaf9c81)"
 (`u-mgwals-the-most-honest-outage-line-baaf9c81`), $2, 1 place paid.
 Deadline 26 Nov 2026 17:15 WIB (10:15 UTC).
